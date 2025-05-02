@@ -206,9 +206,9 @@ ggplot() +
   theme_minimal()
 ```
 
-## 4. Real World Application
+## 4.
 
-### 4.1 Quantifying the Border Zone
+### 4.1
 
 ```{r}
 cities <- cities |> 
@@ -287,5 +287,3 @@ ggplot() +
   labs(title = "Most Populous City per State in Border Zone") +
   theme_minimal()
 ```
-
-<!-- End of Lab 10 -->

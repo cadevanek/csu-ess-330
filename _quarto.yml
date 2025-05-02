@@ -1,9 +1,14 @@
----
 project:
-  title: "lab 10"
-  output-dir: docs
   type: website
-format: 
+  output-dir: docs
+
+format:
   html:
     self-contained: true
----
+
+website:
+  title: "Lab 10"
+  navbar:
+    left:
+      - href: lab10.qmd
+        text: Lab 10
