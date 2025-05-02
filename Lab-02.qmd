@@ -1,14 +1,12 @@
 ---
 title: "Lab 10: Distances and the Border Zone"
 subtitle: 'Ecosystem Science and Sustainability 330'
-author:
-  - name: "Cade Vanek"
-    email: "cade.vanek@colostate.edu"
 format: html
 execute:
   echo: true
     theme: cosmo
     toc: true
+
 ---
 
 ```{r setup, include=FALSE}
